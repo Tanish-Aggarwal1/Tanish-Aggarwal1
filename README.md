@@ -47,7 +47,7 @@ A universal iOS application demonstrating multi-screen navigation, responsive la
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanish-Aggarwal1)
+![GitHub Contributions](https://ghchart.rshah.org/Tanish-Aggarwal1)
 
 </div>
 
