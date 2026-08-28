@@ -15,19 +15,49 @@ I'm a **Software Development & Network Engineering** student at **Sheridan Colle
 
 I enjoy building practical software using backend technologies, modern web frameworks, cloud services, and mobile development. I'm continuously improving my skills by building projects and exploring new technologies.
 
+🎓 Graduating April 2027 &nbsp;·&nbsp; 🔍 Open to co-op / internship opportunities
+
+---
+
+# 🛠️ Skills & Tools
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 # 🚀 Featured Projects
 
 ## ✈️ TripFlow AI
 
-An AI-assisted travel itinerary planner being developed as my capstone project. It focuses on personalized trip planning, route optimization, stop preferences, and community itinerary sharing.
+An AI-powered multi-stop trip planning PWA — my capstone project. Combines route optimization, AI-generated itinerary suggestions, and community trip sharing.
+
+- 🧠 AI itinerary suggestions via **Google Gemini**
+- 🗺️ Multi-stop route optimization with **Mapbox** + **OpenRouteService (VROOM)**
+- 🔐 Stateless JWT auth, layered Spring Boot backend, PostgreSQL persistence
 
 **Tech Stack**
 
-`Spring Boot` `Angular` `MongoDB` `SQL` `Ionic`
+`Spring Boot` `Angular` `Ionic` `PostgreSQL` `Mapbox` `Gemini`
 
-🔗 https://github.com/Tanish-Aggarwal1/TripFlowAI
+🔗 [github.com/Tanish-Aggarwal1/TripFlowAI](https://github.com/Tanish-Aggarwal1/TripFlowAI)
 
 ---
 
@@ -35,17 +65,26 @@ An AI-assisted travel itinerary planner being developed as my capstone project. 
 
 A universal iOS application demonstrating multi-screen navigation, responsive layouts, form validation, alerts, and embedded web content.
 
+- 📲 Universal layout — adapts across iPhone/iPad
+- ✅ Form validation with native alert flows
+- 🌐 Embedded web content via WebKit
+
 **Tech Stack**
 
 `Swift` `UIKit` `Storyboard` `WebKit`
 
-🔗 https://github.com/Tanish-Aggarwal1/Assignment1IOS
+🔗 [github.com/Tanish-Aggarwal1/Assignment1IOS](https://github.com/Tanish-Aggarwal1/Assignment1IOS)
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Stats
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanish-Aggarwal1&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-Aggarwal1&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
 
 ![GitHub Contributions](https://ghchart.rshah.org/Tanish-Aggarwal1)
 
@@ -57,7 +96,7 @@ A universal iOS application demonstrating multi-screen navigation, responsive la
 
 <p align="center">
 
-<a href="www.linkedin.com/in/tanish-aggarwal1">
+<a href="https://www.linkedin.com/in/tanish-aggarwal1">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -65,11 +104,13 @@ A universal iOS application demonstrating multi-screen navigation, responsive la
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/TanishAggarwal1">
+<a href="https://github.com/Tanish-Aggarwal1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-Portfolio: [Visit my Portfolio](https://tanish-aggarwal1.github.io/portfolio/)
+<a href="https://tanish-aggarwal1.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </p>
 
